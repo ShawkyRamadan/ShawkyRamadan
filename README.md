@@ -1,16 +1,33 @@
-## Hi there 👋
+# Shawky Ramadan
 
-<!--
-**ShawkyRamadan/ShawkyRamadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate software tester with expertise in manual, API, and automated testing.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a dedicated Software Tester with experience in manual testing, automation (Selenium), API testing (Postman, Rest Assured), and performance testing (JMeter). My technical background includes Java, C/C++, Python basics, and embedded systems.
+
+## 🔥 Skills & Expertise
+
+- **Software Testing:** Manual, Automation, API, Performance
+- **Automation Tools:** Selenium, Rest Assured, JMeter
+- **Programming Languages:** Java, C/C++, Python (Basics)
+- **Databases:** SQL
+- **Agile & SDLC:** Test case design, defect tracking, and execution
+- **Test Management:** Jira, Trello
+## 📚 Education
+
+- **B.Sc. in Electronics and Communication Engineering**  
+  *El-Gazeera Academy*  
+  GPA: 3.2
+
+- **Software Testing Track**  
+  *Digital Egypt Pioneers Initiative (DEPI)*  
+  - intensive program covering Testing Fundamentals, Agile, API Testing, Selenium, SQL , and Performance Testing
+
+## 📞 Contact Me
+
+- 📧 Email: shawkyramadan1819@gmail.com
+- 🔗 LinkedIn: [Shawky Ramadan](https://www.linkedin.com/in/shawky-ramadan-0b8618203/)
+- 🐙 GitHub: [ShawkyRamadan](https://github.com/ShawkyRamadan)
+- 📍 Location: Giza, Egypt
+
